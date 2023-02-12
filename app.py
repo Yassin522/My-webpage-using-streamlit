@@ -60,7 +60,7 @@ with st.container():
     with image_column:
         st.image(img_portfolio)
     with text_column:
-        st.subheader("Integrate Lottie Animations Inside Your Streamlit App")
+        st.subheader("My portfolio using Flutter")
         st.write(
             """
              Responsive and Animated Portfolio Website & App it works perfectly on mobile and web
